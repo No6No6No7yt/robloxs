@@ -2218,7 +2218,7 @@ function Luna:CreateWindow(WindowSettings)
 	WindowSettings = Kwargify({
 		Name = "Luna UI Example Window",
 		Subtitle = "",
-		LogoID = "120756524156554",
+		LogoID = "6031097225",
 		LoadingEnabled = true,
 		LoadingTitle = "Luna Interface Suite",
 		LoadingSubtitle = "by Nebula Softworks",
@@ -6717,7 +6717,7 @@ if isStudio then
 	local Window = Luna:CreateWindow({
 		Name = "Nebula Client - Luna Hub | Blade Ball",
 		Subtitle = "by Nebula Softworks",
-		LogoID = "120756524156554",
+		LogoID = "123795201100198",
 		LoadingEnabled = true,
 		LoadingTitle = "Nebula Client (Luna Hub)",
 		LoadingSubtitle = "Loading script for Blade Ball",
@@ -6740,7 +6740,7 @@ if isStudio then
 	--[[local Window = Luna:CreateWindow({
 		Name = "Luna Example Window",
 		Subtitle = "Test",
-		LogoID = "120756524156554",
+		LogoID = "6031097225",
 		LoadingEnabled = true,
 		LoadingTitle = "Luna Interface Suite",
 		LoadingSubtitle = "by Nebula Softworks",
